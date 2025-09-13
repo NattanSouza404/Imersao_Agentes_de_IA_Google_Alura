@@ -20,7 +20,7 @@ A partir da pergunta do usuário, ele pode tomar as seguintes decisões:
 ## Rodando no Google Colab
 É necessário adicionar sua chave api Gemini para iniciar o programa. Deve se ir na aba Secrets, adicionar novo secret, nomear como 'GEMINI_API_KEY' e inserir o valor da chave.
 
-Para ter acesso aos pdfs, deve ser feito o upload na aba de "Arquivos".
+Para que o Google Colab tenha acesso aos pdfs, deve ser feito o upload na plataforma pela aba "Arquivos". Os pdfs utilizados estão na pasta '/arquivos' desse repositório.
 
 ## Rodando localmente
 Para iniciar o programa localmente, deve-se instalar a dependência para o Python Notebook:
