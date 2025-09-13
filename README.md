@@ -17,6 +17,11 @@ A partir da pergunta do usuário, ele pode tomar as seguintes decisões:
 
 <img src="docs/grafo_agente.png" height="300px">
 
+## Tecnologias utilizadas
+- Python
+- Gemini
+- Google Colab (opcional)
+
 ## Rodando no Google Colab
 É necessário adicionar sua chave api Gemini para iniciar o programa. Deve se ir na aba Secrets, adicionar novo secret, nomear como 'GEMINI_API_KEY' e inserir o valor da chave.
 
