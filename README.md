@@ -1,5 +1,22 @@
 # Imersão Dev Agentes de IA Google
 
+<img src="docs/imersao.webp" height="100px">
+
+<br/>
+
+`#imersao-agentes-ia-google`
+
+## Introdução
+
+Nessa imersão da Alura, que ocorreu entre 9 e 11/09/2025, implementamos um agente de IA que responde usando uma base de conhecimento própria, retirada de uma leitura de arquivos .pdf.
+
+A partir da pergunta do usuário, ele pode tomar as seguintes decisões:
+- Auto resolver: responde o usuário com sucesso.
+- Abrir chamado: encaminhar a pergunta para outro setor (RH, por exemplo).
+- Pedir informações: pede para que o usuário esclareça melhor algum ponto específico.
+
+<img src="docs/grafo_agente.png" height="300px">
+
 ## Rodando no Google Colab
 É necessário adicionar sua chave api Gemini para iniciar o programa. Deve se ir na aba Secrets, adicionar novo secret, nomear como 'GEMINI_API_KEY' e inserir o valor da chave.
 
