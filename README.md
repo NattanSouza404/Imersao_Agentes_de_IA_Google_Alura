@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Nessa imersão da Alura, que ocorreu entre 9 e 11/09/2025, implementamos um agente de IA que responde usando uma base de conhecimento própria, retirada de uma leitura de arquivos .pdf.
+Nessa imersão da Alura, que ocorreu entre 9 e 11/09/2025, implementamos um agente de IA que responde usando RAG (uma base de conhecimento própria, retirada de uma leitura de arquivos .pdf).
 
 A partir da pergunta do usuário, ele pode tomar as seguintes decisões:
 - Auto resolver: responde o usuário com sucesso.
